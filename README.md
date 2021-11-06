@@ -1,7 +1,7 @@
 
 # E-CELL NITS Sample App
 
-This prototype app provides a list of events to be held under E-Cell NIT Silchar (for example, Srijan 2.0) and the users can manually set event reminders at thier scheduled time so that they do not miss an event.
+This prototype app provides a list of events to be held under E-Cell NIT Silchar (for example, Srijan 2.0) and the users can manually set event reminders at their scheduled time so that they do not miss an event.
 
 
 
