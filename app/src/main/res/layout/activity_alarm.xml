@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".AlarmActivity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/set"
+        android:textAlignment="center"
+        android:textColor="@color/blue_700"
+        android:textSize="24sp"
+        android:layout_marginTop="10dp"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="@string/miss"
+        android:textAlignment="center"
+        android:textColor="@color/blue_200" />
+
+    <TextView
+        android:id="@+id/selectedTime"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="280dp"
+        android:text="@string/_0_00_am"
+        android:textAlignment="center"
+        android:textColor="@color/blue_200"
+        android:textSize="46sp"
+        tools:ignore="TextContrastCheck" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/selectTimeBtn"
+            android:layout_width="130dp"
+            android:layout_height="60dp"
+            android:layout_marginHorizontal="4dp"
+            android:layout_marginTop="36dp"
+            android:text="@string/select"
+            android:textSize="12sp"
+            tools:ignore="TextContrastCheck"
+            style="?android:attr/buttonBarButtonStyle" />
+
+        <Button
+            android:id="@+id/setAlarmBtn"
+            android:layout_width="130dp"
+            android:layout_height="60dp"
+            android:layout_marginTop="36dp"
+            android:layout_marginHorizontal="3dp"
+            android:text="@string/set_reminder"
+            android:textSize="12sp"
+            style="?android:attr/buttonBarButtonStyle" />
+
+        <Button
+            android:id="@+id/cancelAlarmBtn"
+            android:layout_width="130dp"
+            android:layout_height="60dp"
+            android:layout_marginTop="36dp"
+            android:layout_marginHorizontal="3dp"
+            android:textAlignment="center"
+            android:text="@string/cancel"
+            android:textSize="12sp"
+            style="?android:attr/buttonBarButtonStyle" />
+
+    </LinearLayout>
+
+</LinearLayout>

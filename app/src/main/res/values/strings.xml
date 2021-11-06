@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">Srijan2.0 App</string>
+    <string name="Event1">Event 1</string>
+    <string name="Event2">Event 2</string>
+    <string name="Event3">Event 3</string>
+    <string name="Event4">Event 4</string>
+    <string name="Event5">Event 5</string>
+    <string name="Event6">Event 6</string>
+    <string name="Event7">Event 7</string>
+    <string name="Event8">Event 8</string>
+    <string name="Event9">Event 9</string>
+    <string name="Event10">Event 10</string>
+    <string name="home">Home</string>
+    <string name="reminders">Reminders</string>
+    <string name="settings">Settings</string>
+    <string name="about">About</string>
+    <string name="e_cell_nits">E-Cell NITS</string>
+    <string name="mail">ecell.nitsilchar1@gmail.com</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="Time1">Starts 10:00am 7th Nov</string>
+    <string name="Time2">Starts 12:00pm 7th Nov</string>
+    <string name="Time3">Starts 3:00pm 7th Nov</string>
+    <string name="Time4">Starts 6:30pm 7th Nov</string>
+    <string name="Time5">Starts 10:00am 8th Nov</string>
+    <string name="Time6">Starts 1:00pm 8th Nov</string>
+    <string name="Time7">Starts 6:00pm 8th Nov</string>
+    <string name="Time8">Starts 11:00am 9th Nov</string>
+    <string name="Time9">Starts 5:00pm 9th Nov</string>
+    <string name="Time10">Starts 10:00am 10th Nov</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="Detail1">
+        Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry\'s standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.
+    </string>
+    <string name="Detail2">Details of Event 2</string>
+    <string name="Detail3">Details of Event 3</string>
+    <string name="Detail4">Details of Event 4</string>
+    <string name="Detail5">Details of Event 5</string>
+    <string name="Detail6">Details of Event 6</string>
+    <string name="Detail7">Details of Event 7</string>
+    <string name="Detail8">Details of Event 8</string>
+    <string name="Detail9">Details of Event 9</string>
+    <string name="Detail10">Details of Event 10</string>
+    <string name="miss">so that you don\'t miss a thing</string>
+    <string name="set">SET YOUR REMINDER</string>
+    <string name="_0_00_am">0 : 00 AM</string>
+    <string name="cancel">Cancel</string>
+    <string name="select">Select Time</string>
+    <string name="set_reminder">Set Reminder</string>
+</resources>
