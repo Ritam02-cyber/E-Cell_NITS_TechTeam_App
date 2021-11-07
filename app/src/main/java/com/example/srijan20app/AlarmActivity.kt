@@ -43,6 +43,7 @@ class AlarmActivity : AppCompatActivity() {
 
         binding.cancelAlarmBtn.setOnClickListener {
             cancelAlarm()
+            binding.selectedTime.text = "0 : 00 AM"
         }
     }
 
